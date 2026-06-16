@@ -1,6 +1,5 @@
 # ============================================================
-# AL-2002 PROJECT - MODULE 4: Learning in AI
-# Roll No: 24F-0806
+# AL-2002 PROJECT
 # Description: This program implements two learning algorithms:
 #   1. Perceptron Learning Rule
 #   2. Gradient Descent Delta Rule
