@@ -1,17 +1,16 @@
-# 🧠 Perceptron & Gradient Descent Learning
+# Perceptron & Gradient Descent Learning
 
-**AI2002 — Artificial Intelligence | Module 4: Learning in AI**
-FAST-NUCES Chiniot-Faisalabad | Roll No: 24F-0806
+**AI2002 — Artificial Intelligence**
 
 ---
 
-## 📌 Description
+## Description
 
 Implements and compares two fundamental machine learning algorithms from scratch using the **UCI Iris Dataset**. Binary classification task: **Setosa vs Non-Setosa**.
 
 ---
 
-## 🧠 Algorithms Implemented
+## Algorithms Implemented
 
 ### 1. Perceptron Learning Rule
 - Uses **step activation function**
@@ -27,7 +26,7 @@ Implements and compares two fundamental machine learning algorithms from scratch
 
 ---
 
-## 📊 Activation Functions
+## Activation Functions
 
 | Function | Formula | Used In |
 |----------|---------|---------|
@@ -37,7 +36,7 @@ Implements and compares two fundamental machine learning algorithms from scratch
 
 ---
 
-## 📈 Results
+## Results
 
 All three models are compared on:
 - Train accuracy (%)
@@ -48,7 +47,7 @@ Charts are auto-saved as `module4_results.png`.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Install dependencies
 ```bash
@@ -67,7 +66,7 @@ Output includes:
 
 ---
 
-## 🗃️ Dataset
+## Dataset
 
 UCI Iris Dataset (via sklearn):
 - 150 samples, 4 features
@@ -76,19 +75,7 @@ UCI Iris Dataset (via sklearn):
 
 ---
 
-## 📁 Project Structure
-
-```
-Perceptron-Learning/
-├── training_preceptron_M4.py    # Main source code
-├── requirements.txt             # Dependencies
-├── module4_results.png          # Auto-saved chart after run
-└── .gitignore
-```
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python 3.x
 - NumPy
@@ -98,6 +85,6 @@ Perceptron-Learning/
 
 ---
 
-## 📄 License
+## License
 
 MIT License
